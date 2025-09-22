@@ -16,11 +16,7 @@ This repo contains both components as submodules:
 - **Backend** ([`LINK`](https://github.com/jrustom/hotspot-server)) - REST API and WebSocket server
 - **Frontend** ([`LINK`](https://github.com/jrustom/hotspot-ui)) - React web application
 
-## Setup
-
-See individual component READMEs for detailed setup:
-- [Backend README](https://github.com/jrustom/hotspot-server/README.md)
-- [Frontend README](https://github.com/jrustom/hotspot-ui/README.md)
+See individual component READMEs for detailed setup
 
 ## Quick Start
 
