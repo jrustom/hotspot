@@ -1,0 +1,6 @@
+[submodule "hotspot-ui"]
+	path = hotspot-ui
+	url = https://github.com/jrustom/hotspot-ui.git
+[submodule "hotspot-server"]
+	path = hotspot-server
+	url = https://github.com/jrustom/hotspot-server.git
